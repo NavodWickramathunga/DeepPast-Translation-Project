@@ -17,3 +17,11 @@ outputs/models/
 # OS
 .DS_Store
 Thumbs.db
+/.venv/
+/outputs/
+/data/
+/screenshot/
+**/.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
