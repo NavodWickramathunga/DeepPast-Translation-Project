@@ -14,6 +14,9 @@ ENV/
 # Data/model artifacts (optional)
 outputs/models/
 
+# Large data files
+data/publications.csv
+
 # OS
 .DS_Store
 Thumbs.db
